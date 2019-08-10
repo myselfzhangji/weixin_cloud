@@ -1,0 +1,6 @@
+<image class="headImage" src="{{photo}}" mode="aspectFill"></image>
+
+<view style='padding:0rpx 50rpx;'>
+<van-button type="danger" class='dBtn' plain block>下载到本地</van-button>
+<van-button type="primary" class='dBtn' block>分享到朋友圈</van-button>
+</view>
